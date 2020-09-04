@@ -58,6 +58,7 @@ class App extends Component {
           onChange={this.onChange}
           onKeyPress={this.onKeyPress}
           modules={[keyNavigation]}
+          enableKeyNavigation={true}
           onModulesLoaded={(keyboard) => {
             console.log(keyboard.modules);
             /**
