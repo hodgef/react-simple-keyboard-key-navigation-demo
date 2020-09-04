@@ -15,7 +15,7 @@
     "react-dom": "16.9.0",
     "react-scripts": "3.1.1",
     "react-simple-keyboard": "latest",
-    "simple-keyboard-key-navigation": "2.3.1"
+    "simple-keyboard-key-navigation": "latest"
   },
   "devDependencies": {},
   "scripts": {
